@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>190</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Student</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>190</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Course</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>200</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>130.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>320</x>
+      <y>210</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>230</x>
+      <y>210</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>n
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>260</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>250</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Course</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>250</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Section</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>320</x>
+      <y>270</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>n
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>230</x>
+      <y>270</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1
+
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>320</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>310</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Section
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>310</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Instructor</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>320</x>
+      <y>330</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>230</x>
+      <y>330</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1
+
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>380</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>370</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Section</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>370</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Room
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>320</x>
+      <y>390</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>230</x>
+      <y>390</y>
+      <w>100</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>1
+
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>50</x>
+      <y>190</y>
+      <w>100</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>A)
+
+
+
+B)
+
+
+C)
+
+
+
+D)
+style=wordwrap</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
